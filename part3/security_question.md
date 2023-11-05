@@ -30,7 +30,7 @@ En nuestra búsqueda de mantener nuestros datos y sistemas seguros, hemos utiliz
 **10. Redirección y reenvío seguros:**
 - Validaremos y controlaremos los destinos de redirección y reenvío para evitar posibles ataques de phishing.
 
-##La seguridad de nuestra aplicación no es solo responsabilidad del equipo de desarrollo, sino de Cada miembro del equipo
+#La seguridad de nuestra aplicación no es solo responsabilidad del equipo de desarrollo, sino de Cada miembro del equipo
 
 **1. Equipo de Ingeniería de Software:**
    - Asegúrense de que el código que desarrollen siga las mejores prácticas de seguridad, como la validación de entradas y la mitigación de vulnerabilidades conocidas.
