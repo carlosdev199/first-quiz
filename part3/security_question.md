@@ -1,10 +1,4 @@
-# Discurso de Seguridad para el Equipo
-
-## Introducción
-Hola a todos, 
-
-Hoy quiero hablar sobre la seguridad de nuestra aplicación y cómo asegurarnos de que esté protegida contra posibles amenazas. Como saben, estamos construyendo una plataforma innovadora que instala paneles solares de manera eficiente y amigable con el usuario. Sin embargo, para que nuestros clientes confíen en nosotros, la seguridad de la aplicación es de suma importancia.
-
+En nuestra búsqueda de mantener nuestros datos y sistemas seguros, hemos utilizado la lista de OWASP Top 10 para 2021 como guía para identificar y abordar posibles riesgos de seguridad. Aquí está lo que necesitamos considerar:
 ## Riesgos de Seguridad según OWASP Top 10 para 2021
 
 ### 1. Inyección de SQL y otros ataques de inyección
@@ -40,6 +34,3 @@ Hoy quiero hablar sobre la seguridad de nuestra aplicación y cómo asegurarnos 
 ## Medidas Adicionales
 Además de esto, vamos a establecer pruebas regulares de seguridad automatizadas y manuales utilizando herramientas como Nessus, OWASP ZAP, o Burp Suite para identificar posibles vulnerabilidades. También, implementaremos un plan de respuesta a incidentes y capacitaremos a nuestro equipo en las mejores prácticas de seguridad.
 
-Recuerden, la seguridad es una preocupación constante y compartida en nuestro equipo. Juntos, podemos garantizar que nuestra aplicación sea segura y confiable para nuestros clientes. ¡Sigamos adelante y construyamos una plataforma sólida y segura!
-
-Gracias por su dedicación y trabajo arduo en este emocionante proyecto!
